@@ -1,10 +1,12 @@
-package com.adriennecabouet.stormy;
+package com.adriennecabouet.stormy.UI;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.adriennecabouet.stormy.R;
 
 /**
  * Created by Adrienne on 8/24/15.

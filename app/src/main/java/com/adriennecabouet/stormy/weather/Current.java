@@ -1,4 +1,6 @@
-package com.adriennecabouet.stormy;
+package com.adriennecabouet.stormy.weather;
+
+import com.adriennecabouet.stormy.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -7,7 +9,7 @@ import java.util.TimeZone;
 /**
  * Created by Adrienne on 8/27/15.
  */
-public class CurrentWeather {
+public class Current {
     private String mIcon;
     private long mTime;
     private double mTemperature;
